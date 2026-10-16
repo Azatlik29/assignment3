@@ -39,11 +39,11 @@ README.md
 1. Create a repository and upload all files (keep `index.html` in the root).
 2. Open **Settings > Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then save.
-4. After a minute the site is available at `https://<your-username>.github.io/<repository-name>/`.
+4. After a minute the site is available at `https://azatlik29.github.io/assignment3/`.
 
 ## Live site
 
-Add your link here: `https://<your-username>.github.io/<repository-name>/`
+Add your link here: `https://azatlik29.github.io/assignment3/`
 
 ## Technologies
 
