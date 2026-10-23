@@ -43,7 +43,7 @@ README.md
 
 ## Live site
 
-Add your link here: `https://azatlik29.github.io/assignment3/`
+ https://azatlik29.github.io/assignment3/
 
 ## Technologies
 
