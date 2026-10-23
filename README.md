@@ -29,17 +29,6 @@ js/validation.js
 README.md
 ```
 
-## How to run locally
-
-1. Download or clone the repository.
-2. Open `index.html` in a browser. No build step is needed; Bootstrap loads from a CDN, so an internet connection is required.
-
-## How to publish with GitHub Pages
-
-1. Create a repository and upload all files (keep `index.html` in the root).
-2. Open **Settings > Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then save.
-4. After a minute the site is available at `https://azatlik29.github.io/assignment3/`.
 
 ## Live site
 
